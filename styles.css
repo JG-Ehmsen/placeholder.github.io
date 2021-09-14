@@ -1,0 +1,9 @@
+h1 {
+	text-align: center;
+}
+
+.rainbow-text {
+  background-image: linear-gradient(to left, purple, pink, purple);   
+  -webkit-background-clip: text;
+  color: transparent;
+}
